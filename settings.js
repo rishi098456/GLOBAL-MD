@@ -4,18 +4,18 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: DingDing" //ur yt chanel name
-global.socialm = "GitHub: DingDing" //ur github or insta name
-global.location = "eiga village" //ur location
+global.ytname = "YT: DANIAL" //ur yt chanel name
+global.socialm = "GitHub: DANIAL" //ur github or insta name
+global.location = "HELL" //ur location
 
 //new
-global.botname = '© DingDing' //ur bot name
+global.botname = '© DANIAL' //ur bot name
 global.ownernumber = ['918252102735'] //ur owner number, dont add more than one
-global.ownername = '© DingDing' //ur owner name
+global.ownername = '© DANIAL' //ur owner name
 global.themeemoji = '🪀'
-global.wm = "DingDing."
+global.wm = "DANIAL."
 global.packname = "Sticker By"
-global.author = "DingDingInfo\n\n+918252102735"
+global.author = "DANIALInfo\n\n+918252102735"DANIALInfo\n\n+918252102735
 global.creator = "918252102735@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["918252102735"] // Premium User
