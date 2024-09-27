@@ -1,16 +1,16 @@
 {
-  "name": "GLOBAL-MD",
+  "name": "DANIAL",
   "version": "2.0.0",
-  "description": "Bot WhatsApp Using Lib Baileys Multi Device",
+  "description": "WAKE UP TO REALITY",
   "main": "start.js",
   "type": "commonjs",
   "scripts": {
     "start": "node start.js"
   },
   "keywords": [
-    "Whatsapp Bot By GlobalTechInfo"
+    "Whatsapp Bot By DANIAL"
   ],
-  "author": "GlobalTechInfo",
+  "author": "DANIAL",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys" : "latest",
